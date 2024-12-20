@@ -1,2 +1,0 @@
-# Pseudokod
-Pseudokod eksamen
