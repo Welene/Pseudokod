@@ -1,0 +1,54 @@
+
+/* det här behövde jag inte, men okej! */
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: calibri;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.main-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    min-width: 25rem;
+}
+
+.main-section__top-title {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.main-section__container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    border: 3px solid purple;
+    border-radius: .3rem;
+    padding: 2rem 3rem;
+}
+
+.container-content__input {
+    padding-bottom: 1rem;
+    border-style: none;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+
+.container-calculate-btn {
+    min-width: 8rem;
+    align-self: center;
+    padding: 1rem 5rem;
+    margin-bottom: 2rem;
+    border-style: none;
+    background-color: purple;
+    color: white;
+    font-weight: 1000;
+}
