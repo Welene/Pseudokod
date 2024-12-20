@@ -1,4 +1,4 @@
-# Helene Theodorsen 
+# Helene Theodorsen - Pseudokod eksamen
 
 
 ## Länk till FigJam fil:
